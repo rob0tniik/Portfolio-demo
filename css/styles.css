@@ -695,6 +695,9 @@ Skills
 Timeline
 ===============
 */
+.timeline-fix{
+  margin-top: 3rem;
+}
 .timeline-center {
   width: 80vw;
   max-width: 40rem;
